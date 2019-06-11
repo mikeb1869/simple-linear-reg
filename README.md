@@ -1,5 +1,5 @@
 # simple-linear-reg
-Regression analysis of Vegas travelers (Continuation of vegas-hotel-reviews)
+Regression analysis of Vegas travelers (Continuation of vegas-reviews)
 
 The tourism industry is the lifeblood of my hometown of Las Vegas. As a long time Vegas resident, I am interested in examining tourism trends in the city. I am interested in the association between the types of hotel guests who travel to Las Vegas and their likelihood of giving a top (5-star) rating of the hotel at which they stayed. A dataset of 492 hotel reviews from the travel site tripadvisor.com will be used to explore this topic. 
 
